@@ -10,6 +10,7 @@ body{
 }
 
 .nav-bar{
+    position: relative;
     display: flex;
     align-items: center;
     background-color: #86775F;
