@@ -25,7 +25,9 @@ body{
 .brandname h2{
     font-size: 26px;
     color: white;
-    margin-left: 100px;
+    position: absolute;
+    left: 50%;
+    margin: 0;
 }
 
 main h2{
